@@ -4,7 +4,7 @@
 
 This is the repository of Continual Learning in Medical - A Survey, a systematic survey of Continual Learning studies in Medical Setting. For details, please refer to:
 
-[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](?)
+[![paper](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2405.13482)
 
 [Mohammad Areeb Qazi](https://scholar.google.com/citations?user=KeyK8FQAAAAJ&hl=en),
 [Anees Ur Rehman Hashmi](https://github.com/aneesurhashmi),
